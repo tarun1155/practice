@@ -1,6 +1,7 @@
 tarun ta 
 poiuytrew
 <<<<<<< HEAD
+<<<<<<< HEAD
 ghghasghhgdghghfdssghghd
 sharath 
 deena soldevnalli.com
@@ -9,3 +10,5 @@ deena soldevnalli.com
 jalgraaa
 >>>>>>> 4402e159aad8fd2777759ac416c1c2ebca4cd51e
 shadeeeeee
+=======
+>>>>>>> parent of 80e5664 (hfgfg)
